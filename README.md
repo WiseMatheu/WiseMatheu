@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @WiseMatheu
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Lua
+- 👀 I’m interested in game development and web development
+- 🌱 I’m currently learning Lua and HTML
 - 📫 How to reach me: wisematheu#9719
